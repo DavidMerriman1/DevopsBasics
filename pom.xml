@@ -159,7 +159,7 @@
 
 
   <prerequisites>
-    <maven>3.244.1</maven>
+    <maven>3.9.9</maven>
   </prerequisites>
 
 </project>
